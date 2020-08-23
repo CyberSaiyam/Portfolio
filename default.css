@@ -299,7 +299,11 @@ h6 {
   padding-top: 50px;
   gap: 100px;
 }
-
+#uselinks {
+  display: flex;
+  justify-content: space-between;
+  font-weight: boldS;
+}
 #skills {
   display: flex;
   justify-content: space-evenly;
